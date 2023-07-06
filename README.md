@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PramestyAnalyst
 - 🌱 I’m currently learning data analysis tools such as SQL and Excel
-- 💞️ I’m looking to collaborate as a Part-time or Data Analyst Intern
+- 💞️ I’m looking forward to part-time opportunities as Junior Data Analyst
 - 📫 You can reach me on my linkedin: https://www.linkedin.com/in/pramesty-nilakandi-putri/
 
 <!---
